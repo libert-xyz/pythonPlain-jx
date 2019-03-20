@@ -1,2 +1,1 @@
-#Fill in dependencies here
-flask
+Flask==1.0.2
